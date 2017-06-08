@@ -1,0 +1,107 @@
+body { background-image: url(./images/backgrounds/knitting.png);
+
+}
+.container {
+	width: 1100px;
+}
+#home {
+	background-image: url(./images/images/pink-frosted-cupcake.jpg);
+	height: 545px;
+	margin: 0 auto;
+	border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+border: 0px solid #000000;
+}
+h1 {
+	position: absolute;
+	z-index: 2;
+	margin-top: 450px;
+	margin-left: 50px;
+}
+#tiny {
+	position: absolute;
+	margin-top: 400px;
+	margin-left: 50px;
+	z-index: 1;
+}
+.navbar {
+	background:transparent;
+	overflow: hidden;
+	border: none;
+
+
+}
+nav ul{ 
+	list-style-type: none;
+	margin: auto;
+	padding: 0;
+	text-align: center;
+	font-size: 40px;
+}
+nav li{ 
+	display: inline;
+	margin: 10px;
+	border-top: 5px solid black;
+	border-bottom: 8px solid black;
+}
+nav li a{
+	color: white;
+
+}
+nav li a:hover {
+	text-decoration: none;
+}
+.container-fluid{
+	width: 1100px;
+}
+.row {
+	margin-left: 0;
+}
+h2 {
+	text-align: center;
+}
+.about-us h2{
+	background-color: #77dd77;
+	padding: 20px 0;
+	border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 5px 5px 5px 5px;
+}
+
+.about-us{
+	background-color: transparent;
+	font-size: 19px; 
+	border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+border: 5px solid #78ddf9;
+margin-top: 30px;
+padding-bottom: 22px;
+}
+.chocolate-cupcake{
+	margin-top: 30px;
+}
+#history{
+	background-color: #FFD1DC;
+	margin-top: 30px;
+	margin-right: -2px;
+	border-radius: 10px 10px 10px 10px;
+-moz-border-radius: 10px 10px 10px 10px;
+-webkit-border-radius: 10px 10px 10px 10px;
+border: 5px solid #77dd77;
+}
+.h-article{
+	font-size: 19px; 
+	height: 280px;
+	padding: 0 100px;
+}
+#store{
+	background-color: red;
+
+}
+.contact-section{
+	background-color: blue;
+
+}
+.footer{}
